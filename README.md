@@ -1,6 +1,6 @@
 ## Hi there, I'm Karolayne👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enyalorak&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enyalorak&langs_count=5)
 
 
 <div> 
